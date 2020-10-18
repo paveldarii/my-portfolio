@@ -1,9 +1,66 @@
+a span{
+    padding:10px;
+    background-color: #69bdd2 ;
+    color: white;
+}
+
+
+.container{
+    background-color:white;
+    margin-bottom: 150px;
+    margin-top: 60px
+}
+
+footer{
+    
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    background-color: #69bdd2;
+    color:#cce6e8 ;
+    padding-top:15px;
+    padding-bottom: 0;
+}
+
+h1 {
+    color:#69bdd2;
+}
+body {
+    background-color:white;
+    background-image:url(//www.html.am/images/backgrounds/background-image-2.gif); 
+}
+button{
+    background-color: #69bdd2 ;
+    padding:20px;
+    border:none;
+    color: white;
+}
+
+
+
 nav{
     margin-bottom: 50px;
 }
-footer{
 
-    text-align: center;
-    background-color: #efefef;
-    padding:20px;
+.portfoliop img {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+ 
+
+.index div.col-12 img{
+    float:left;
+    margin-right: 20px;
+   
+}
+ a span{
+    padding:10px;
+    background-color: #69bdd2 ;
+    color: white;
+}
+
+
+.portfolio img {
+    margin-top: 20px;
 }
