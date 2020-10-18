@@ -7,11 +7,16 @@ p{
     font-weight: normal;
     
 }
+
 a span{
     padding:10px;
     background-color: #69bdd2 ;
     color: white;
 }
+a span:hover{
+    zoom: 1.01;
+}
+
 .nav-item{
     color:#69bdd2; 
 }
@@ -76,4 +81,8 @@ nav{
 
 .portfolio img {
     margin-top: 20px;
+}
+
+.portfolio img:hover{
+    zoom: 1.02;
 }
