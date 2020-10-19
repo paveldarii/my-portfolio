@@ -17,16 +17,16 @@ a span:hover{
     zoom: 1.01;
 }
 
-.nav-item{
-    color:#69bdd2; 
-}
+
 
 .container{
     
     background-color:white;
     margin-bottom: 110px;
     margin-top: 60px;
+    top:40px;
 }
+
 
 footer{
     
@@ -85,4 +85,20 @@ nav{
 
 .portfolio img:hover{
     zoom: 1.02;
+    
 }
+p span {
+    display: inline-block;
+}
+@media screen and (max-width: 510px)
+{ .container {
+    width:94%;
+}}
+@media screen and (min-width: 510px) and (max-width: 768px)
+{ .container{
+    width:500px;
+}}
+@media screen and (min-width: 769px)
+{ .container {  
+    max-width: 740px;
+}}
