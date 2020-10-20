@@ -1,104 +1,95 @@
-p{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.05;
-    margin-left: auto;
-    margin-right: auto;
-    font-weight: normal;
-    
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.05;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: normal;
 }
 
-a span{
-    padding:10px;
-    background-color: #69bdd2 ;
-    color: white;
+a span {
+  padding: 10px;
+  background-color: #69bdd2;
+  color: white;
 }
-a span:hover{
-    zoom: 1.01;
-}
-
-
-
-.container{
-    
-    background-color:white;
-    margin-bottom: 110px;
-    margin-top: 60px;
-    top:40px;
+a span:hover {
+  zoom: 1.01;
 }
 
+.container {
+  background-color: white;
+  padding-bottom: 20px;
+  margin-bottom: 110px;
+  margin-top: 60px;
+  top: 40px;
+}
 
-footer{
-    
-    position: fixed;
-    bottom: 0;
-    width:100%;
-    text-align: center;
-    background-color: #69bdd2;
-    color:#cce6e8 ;
-    padding-top:15px;
-    padding-bottom: 0;
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #69bdd2;
+  color: #cce6e8;
+  padding-top: 15px;
+  padding-bottom: 0;
 }
 
 h1 {
-    color:#69bdd2;
+  color: #69bdd2;
 }
 body {
-    background-image:url(//www.html.am/images/backgrounds/background-image-2.gif); 
-
+  background-image: url(https://image.freepik.com/free-vector/colorful-ditsy-floral-print-background_52683-30962.jpg);
 }
-button{
-    background-color: #69bdd2 ;
-    padding:20px;
-    border:none;
-    color: white;
+button {
+  background-color: #69bdd2;
+  padding: 20px;
+  border: none;
+  color: white;
 }
 
-
-
-nav{
-    padding:20px;
-    margin-bottom: 50px;
+nav {
+  padding: 20px;
+  margin-bottom: 50px;
 }
 
 .portfoliop img {
-    padding-bottom: 10px;
-    padding-top: 10px;
-}
- 
-
-.index div.col-12 img{
-    float:left;
-    margin-right: 20px;
-   
-}
- a span{
-    padding:10px;
-    background-color: #69bdd2 ;
-    color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
+.index div.col-12 img {
+  float: left;
+  margin-right: 20px;
+}
+a span {
+  padding: 10px;
+  background-color: #69bdd2;
+  color: white;
+}
 
 .portfolio img {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
-.portfolio img:hover{
-    zoom: 1.02;
-    
+.portfolio img:hover {
+  zoom: 1.02;
 }
 p span {
-    display: inline-block;
+  display: inline-block;
 }
-@media screen and (max-width: 510px)
-{ .container {
-    width:94%;
-}}
-@media screen and (min-width: 510px) and (max-width: 768px)
-{ .container{
-    width:500px;
-}}
-@media screen and (min-width: 769px)
-{ .container {  
+@media screen and (max-width: 510px) {
+  .container {
+    width: 94%;
+  }
+}
+@media screen and (min-width: 510px) and (max-width: 768px) {
+  .container {
+    width: 500px;
+  }
+}
+@media screen and (min-width: 769px) {
+  .container {
     max-width: 740px;
-}}
+  }
+}
