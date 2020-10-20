@@ -7,15 +7,19 @@ p {
   font-weight: normal;
 }
 
+/*this selector is targeting the home button with Pavel Darii name on it */
 a span {
   padding: 10px;
   background-color: #69bdd2;
   color: white;
 }
+
+/* the purpose of this selector is to make home button react on hover of the mouse*/
 a span:hover {
   zoom: 1.01;
 }
 
+/*genereal parameters for all containers*/
 .container {
   background-color: white;
   padding-bottom: 20px;
@@ -24,6 +28,7 @@ a span:hover {
   top: 40px;
 }
 
+/*genereal parameters for footer*/
 footer {
   position: fixed;
   bottom: 0;
@@ -35,17 +40,13 @@ footer {
   padding-bottom: 0;
 }
 
+/*the target of h1 is the name of all main contents*/
 h1 {
   color: #69bdd2;
 }
+
 body {
   background-image: url(https://image.freepik.com/free-vector/colorful-ditsy-floral-print-background_52683-30962.jpg);
-}
-button {
-  background-color: #69bdd2;
-  padding: 20px;
-  border: none;
-  color: white;
 }
 
 nav {
@@ -53,31 +54,22 @@ nav {
   margin-bottom: 50px;
 }
 
-.portfoliop img {
-  padding-bottom: 10px;
-  padding-top: 10px;
-}
-
-.index div.col-12 img {
+.index img {
   float: left;
   margin-right: 20px;
 }
-a span {
-  padding: 10px;
-  background-color: #69bdd2;
-  color: white;
-}
 
-.portfolio img {
+/*portfolio page padding for img to keep them separated on top and bottom*/
+.portfoliop img {
+  padding: 10px;
   margin-top: 20px;
 }
 
 .portfolio img:hover {
   zoom: 1.02;
 }
-p span {
-  display: inline-block;
-}
+
+/* bellow is defined how container properties will react on different width of the screen*/
 @media screen and (max-width: 510px) {
   .container {
     width: 94%;
