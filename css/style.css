@@ -60,13 +60,8 @@ nav {
 }
 
 /*portfolio page padding for img to keep them separated on top and bottom*/
-.portfoliop img {
-  padding: 10px;
-  margin-top: 20px;
-}
-
-.portfolio img:hover {
-  zoom: 1.02;
+.portfolio img {
+  padding-top: 20px;
 }
 
 /* bellow is defined how container properties will react on different width of the screen*/
