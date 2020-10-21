@@ -65,17 +65,18 @@ nav {
 }
 
 /* bellow is defined how container properties will react on different width of the screen*/
-@media screen and (max-width: 510px) {
+@media screen and (min-width: 399px) {
   .container {
     width: 94%;
   }
 }
-@media screen and (min-width: 510px) and (max-width: 768px) {
+
+@media screen and (min-width: 510px) and (max-width: 992px) {
   .container {
-    width: 500px;
+    width: 550px;
   }
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 992px) {
   .container {
     max-width: 740px;
   }
