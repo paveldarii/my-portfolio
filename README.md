@@ -7,11 +7,11 @@ The site that is in "my-portfolio" repository is about me, the author of this si
 
 ![about me page](deployed-site-screenshots/about-page.jpg?raw=true)\
 ![portfolio page](deployed-site-screenshots/portfolio-page.jpg?raw=true)\
-![contact page](deployed-site-screenshots/contact-page.jpg?raw=true)\
+![contact page](deployed-site-screenshots/contact-page.jpg?raw=true)
 
 ## Deployed link of the site
 
-[a link](https://paveldarii.github.io/my-portfolio/)
+[push here to enter on Pavel Darii site](https://paveldarii.github.io/my-portfolio/)
 
 ## Motivation
 
