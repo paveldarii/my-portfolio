@@ -15,7 +15,7 @@ The site that is in "my-portfolio" repository is about me, the author of this si
 
 ## Motivation
 
-Main motivation behind this project was to experiment with Bootstrap, which was very helpful in my efficiency. Moreover, for the first time I felt what it means to build a site from scratch using HTML and CSS, so this experience will be very helpful in the process of learning Javascript. From one to ten on how difficult the project was for me, one being not difficult and ten very difficult , I can give a four.
+Main motivation behind this project was to experiment with Bootstrap. Also, for the first time I felt what it means to build a site from scratch using HTML and CSS, so this experience will be very helpful in the process of learning Javascript. From one to ten on how difficult the project was for me, one being not difficult and ten very difficult , I can give a four.
 
 ## The work that site demands
 
