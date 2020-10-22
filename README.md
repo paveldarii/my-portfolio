@@ -3,7 +3,7 @@
 ## Description
 
 The site that is in "my-portfolio" repository is about me, the author of this site, and it consists of three pages. Home page or About me page is the main page and it can be accessed with the "Pavel Darii" link from the top left corner of the page or from the "About" link that is located also in the nav bar. About me page contains my profile picture, and a general description of my life plus my aspirations; also, in the same container on the bottom are links to my Linkedin and Github accounts. Next page is Portfolio, and there are some images from the last five years of my life. The last page is Contact and can be accessed as well from nav bar, and the access to this page may favor my contact with potential employers and in general with people who want to come with feedback to me.
-![about me page](https://github.com/[paveldarii]/[my-portfolio]/deployed-site-screenshots/about-page.jpg?raw=true)
+![about me page](deployed-site-screenshots/about-page.jpg?raw=true)
 
 ## Deployed link of the site
 
