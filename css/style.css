@@ -64,6 +64,13 @@ nav {
   padding-top: 20px;
 }
 
+.contact button {
+  padding: 20px;
+  background-color: #69bdd2;
+  color: white;
+  border: 0px;
+}
+
 /* bellow is defined how container properties will react on different width of the screen*/
 @media screen and (min-width: 399px) {
   .container {
